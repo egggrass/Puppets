@@ -1,0 +1,5 @@
+C:/Users/ottar/Documents/GitHub/Puppets/.utmp/RelWithDebInfo/2d65555q/armeabi-v7a/CMakeFiles/edit_cache.dir
+C:/Users/ottar/Documents/GitHub/Puppets/.utmp/RelWithDebInfo/2d65555q/armeabi-v7a/CMakeFiles/rebuild_cache.dir
+C:/Users/ottar/Documents/GitHub/Puppets/.utmp/RelWithDebInfo/2d65555q/armeabi-v7a/FramePacing/CMakeFiles/swappywrapper.dir
+C:/Users/ottar/Documents/GitHub/Puppets/.utmp/RelWithDebInfo/2d65555q/armeabi-v7a/FramePacing/CMakeFiles/edit_cache.dir
+C:/Users/ottar/Documents/GitHub/Puppets/.utmp/RelWithDebInfo/2d65555q/armeabi-v7a/FramePacing/CMakeFiles/rebuild_cache.dir
